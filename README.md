@@ -1,2 +1,2 @@
 # deep-learning-reference
-Reference Materials for Deep Learning
+Reference materials for Deep Learning
